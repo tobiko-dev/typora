@@ -1,0 +1,18 @@
+# Build outputs
+*.exe
+*.pdb
+Typora.ico
+
+# Logs / temporary files
+*.log
+*.tmp
+*.bak
+
+# Go
+/vendor/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
