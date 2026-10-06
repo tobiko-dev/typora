@@ -1,10 +1,13 @@
+<img src="Typora-icon.png" width="80" height="80" alt="Project Icon">
+<img width="1362" height="868" alt="image" src="https://github.com/user-attachments/assets/ab35bfc7-054a-4154-bbb0-895853a724d4" />
+
 # Typora — native Windows Markdown editor
 
 > **Independent project.** This repository is not affiliated with, endorsed by, or the source code of the commercial **Typora** application. It is an independent Markdown editor built from scratch and inspired by the same distraction-free editing idea.
 
 A fast, local-first Windows Markdown editor focused on feeling as immediate as Notepad while adding tabs, automatic persistence, Markdown preview, recovery, and a modern native interface.
 
-**Current version: v4.18.0**
+**Current version: v4.20.0**
 
 ## Highlights
 
@@ -127,7 +130,7 @@ assets/            Logo source
 Runtime log:
 
 ```text
-%TEMP%\Typora-v4.18.log
+%TEMP%\Typora-v4.20.log
 ```
 
 ## License
