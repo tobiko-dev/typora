@@ -1,0 +1,17 @@
+Typora v4.20 — Native Windows Build
+
+Build from source with:
+
+  build.bat
+
+The result is:
+
+  Typora-v4.20.exe
+
+v4.20 double-buffers the Markdown Preview pane to reduce flicker while
+scrolling, including around custom rounded code blocks.
+
+The Notes sidebar watches .md, .markdown, and .txt files created, deleted, or
+renamed externally in the selected notes folder.
+
+This is an independent project and is not the commercial Typora application.
